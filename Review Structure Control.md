@@ -7,7 +7,16 @@ Topik ini membahas hal-hal penting terkait pembelajaran di MK sebelumnya (**runt
 1. **Runtunan dan Perulangan** (tanpa percabangan)
 2. **Percabangan dan Perulangan**
 
-## Penjelasan Singkat
+
+## Diagram Alur
+Berikut adalah representasi diagram alur untuk masing-masing struktur kontrol:
+- **Sequence**: Instruksi dijalankan secara berurutan
+- **Selection**: Program bercabang berdasarkan kondisi (True/False)
+- **Iteration**: Eksekusi berulang berdasarkan kondisi
+
+![alt text](https://github.com/khosyikafikirdiat/Algoritma-Pemrograman/blob/main/diagram%20review%20control.png?raw=true)
+
+## Pemaparan Materi
 ### 1. Runtunan (Sequence)
 Runtunan adalah eksekusi perintah secara berurutan dari atas ke bawah tanpa adanya percabangan atau perulangan.
 
@@ -51,13 +60,5 @@ while count < 5:
     print(f"Count: {count}")
     count += 1
 ```
-
-## Diagram Alur
-Berikut adalah representasi diagram alur untuk masing-masing struktur kontrol:
-- **Sequence**: Instruksi dijalankan secara berurutan
-- **Selection**: Program bercabang berdasarkan kondisi (True/False)
-- **Iteration**: Eksekusi berulang berdasarkan kondisi
-
-![Diagram Alur](image.png)
 
 
