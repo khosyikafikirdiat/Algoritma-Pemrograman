@@ -10,7 +10,7 @@ Jika total belanja < 200000, tidak ada diskon.
 Fungsi harus mengembalikan harga akhir setelah diskon.
 Uji dengan total belanja 700000, 300000, dan 150000.
 
-$$Soal Post Test 2
+## Soal Post Test 2
 Buatlah program Python yang meminta pengguna memasukkan jumlah siswa dalam sebuah kelas. Setiap siswa akan menginput nilai ujian mereka (0 - 100). Program harus melakukan hal berikut:
 
 Menggunakan fungsi untuk menghitung rata-rata nilai siswa.
