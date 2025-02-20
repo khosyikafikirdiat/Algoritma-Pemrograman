@@ -23,13 +23,13 @@ Menggunakan fungsi untuk menghitung rata-rata nilai siswa.
 Menggunakan perulangan untuk meminta input nilai siswa satu per satu.
 Menggunakan percabangan untuk menentukan kategori rata-rata nilai berdasarkan kriteria berikut:
 
-A jika rata-rata nilai ≥ 85
+A. jika rata-rata nilai ≥ 85
 
-B jika rata-rata nilai ≥ 70 dan < 85
+B. jika rata-rata nilai ≥ 70 dan < 85
 
-C jika rata-rata nilai ≥ 50 dan < 70
+C. jika rata-rata nilai ≥ 50 dan < 70
 
-D jika rata-rata nilai < 50
+D. jika rata-rata nilai < 50
 
 Program harus memastikan bahwa nilai yang dimasukkan valid (0 - 100). Jika ada nilai yang tidak valid, program harus meminta input ulang.
 
